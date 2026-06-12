@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://botaemeveryday.github.io/notes/">
-    <img src="https://media.tenor.com/JW0XaqKXJfsAAAAi/cat-pixelated.gif" width="250" style="border-radius: 15px;" alt="Study Cat">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnF4OWo5a3pocThzMHV6b2NzeW4xb2Exd2FhMWU3bTdrcWo0azI3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="250" style="border-radius: 15px;" alt="Study Cat">
   </a>
 
   <br><br>
